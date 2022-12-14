@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "20zry0KM66AjgcNfhAJqi2/mHv5GqBWh7XrGs1huTbdQJwJOV+bLkXCg0jaX1e+UUJOTrJ4d1acYED+vmvAY1A==",
+  "success": true,
+  "projectFilePath": "E:\\1\\FileDelete\\FileDelete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eda\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Eda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Eda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Eda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Eda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
